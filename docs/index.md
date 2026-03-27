@@ -1,17 +1,51 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introduction
 
-## Commands
+Welcome! This guide will help you use Moqups to create Entity Relationship Diagrams (ERDs) for system and database design.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct ERDs. Instead of explaining ERD theory, this guide emphasizes how to use Moqups features to represent entities and relationships visually.
 
-## Project layout
+## Is This Guide for You?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This guide is designed for CST students enrolled in database-related courses. It provides step-by-step instructions on using the most basic tools to build an Entity Relationship Diagram (ERD).
+
+## Learning Outcomes
+
+By the end of this guide, you will be able to
+
+* create a Moqups account, 
+* perform general operations within the Moqups workspace,   
+* create entities using shapes, and   
+* connect entities using lines to represent relationships. 
+
+## Prerequisites
+
+To follow this guide, you will need
+
+* a computer with internet access, 
+* a modern web browser (e.g., Google Chrome, Safari, or Firefox),
+* a valid email account to create a Moqups account, and
+* basic knowledge of using a mouse, keyboard, and trackpad.
+
+## Typographical Conventions
+
+This guide uses the following typographic conventions:
+
+| Convention Explanation | Examples |
+| :-------------------- | :------- |
+| Commands & Actions: Bolded verbs indicate actions you need to perform when using Moqups. | **Click, Drag, Select, Type, Open** |
+| Menu & Toolbar Sequence: Menus, panels, or tools are enclosed in square brackets. The → symbol indicates the sequence of actions. | [Dashboard] → [Create New Project] → [Blank Diagram] |
+
+## Admonitions
+
+This guide uses success, warning, and note messages to provide additional information for each step.
+
+!!! success
+    Success indicates that a step has been completed correctly. It appears in a green box with a checkmark icon next to the word “Success”.
+
+!!! warning
+    Warning highlights actions that may cause errors or issues if performed incorrectly. It appears in an orange box with a warning icon next to the word “Warning”.
+
+!!! note
+    Note provides additional tips or helpful information related to a step. It appears in a blue box with a pen icon next to the word “Note”.

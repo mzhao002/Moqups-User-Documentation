@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Moqups User Documentation
 
 theme:
   name: material
@@ -16,3 +16,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
