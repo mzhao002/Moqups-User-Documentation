@@ -2,6 +2,10 @@ site_name: Moqups User Documentation
 
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
   palette:
     - scheme: default
       primary: green
@@ -21,3 +25,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - General Operations: general-operations.md
