@@ -73,9 +73,11 @@ BCIT students can request a free upgrade to the Moqups Starter plan for educatio
 3. Wait for confirmation
 
     After submitting your request, the Moqups support team will review it.
-
+    
     !!! note
         The upgrade is typically processed within 1–2 business days.
+
+    ![Starter plan](images/screenshoot-plan.png)
 
     !!! success
         Once approved, your account will be upgraded to the Starter plan for educational use.
