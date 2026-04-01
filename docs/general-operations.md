@@ -42,8 +42,7 @@ After creating your account, you will be redirected to the Moqups workspace.
 ![Moqups workspace](images/workspace.png)
 
 !!! success
-    Congratulations! You have successfully created a Moqups account.
-
+    Congratulations! You have successfully created a Moqups account and accessed the workspace.
 
 
 ## Upgrade to a Student Plan (Optional)
