@@ -24,7 +24,7 @@ You need to create an account before using Moqups. The following steps will guid
 
     Once you have entered all the required information correctly, **click** [Create Account] to complete the registration.
 
-    !!! warning
+    !!! note
         Free accounts have limitations. BCIT students can use their myBCIT email to request an educational account upgrade.
 
     !!! warning

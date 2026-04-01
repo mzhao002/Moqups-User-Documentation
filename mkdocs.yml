@@ -34,4 +34,9 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Creat an Account: create-an-account.md
   - General Operations: general-operations.md
+  - Create UML Shapes: create-uml-shapes.md
+  - Connect Classes Using Lines: connect-classes-using-lines.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
