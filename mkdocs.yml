@@ -5,18 +5,17 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - toc.integrate
+    
+
   palette:
     - scheme: default
-      primary: green
-      accent: green
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     - scheme: slate
-      primary: green
-      accent: green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode

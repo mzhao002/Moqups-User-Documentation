@@ -10,73 +10,72 @@ In this section, you will learn how to create an account and access the Moqups w
 
 You need to create an account before using Moqups. The following steps will guide you through the registration process.
 
-### Step 1: Open the Moqups website
+1. Open the Moqups website
 
-**Open** the Moqups homepage and **click** [Sign up] in the top-right corner or [Sign up for free] on the main page.
+    **Open** the Moqups homepage and **click** [Sign up] in the top-right corner or [Sign up for free] on the main page.
 
-![Sign up button](images/signup.png)
+    ![Sign up button](images/signup.png)
 
-### Step 2: Enter your account information
+2. Enter your account information
 
-On the sign-up page, **enter** your email address and password.
+    On the sign-up page, **enter** your email address and password.
 
-If you are a BCIT student, it is recommended to register using your myBCIT email, as it can be used to request an educational account upgrade.
+    If you are a BCIT student, it is recommended to register using your myBCIT email, as it can be used to request an educational account upgrade.
 
-Once you have entered all the required information correctly, **click** [Create Account] to complete the registration.
+    Once you have entered all the required information correctly, **click** [Create Account] to complete the registration.
 
-!!! warning
-    Free accounts have limitations. BCIT students can use their myBCIT email to request an educational account upgrade.
+    !!! warning
+        Free accounts have limitations. BCIT students can use their myBCIT email to request an educational account upgrade.
 
-!!! warning
-    Make sure you enter a valid email address so you can access your account later.
-![Moqups sign-up page](images/signup-page.png)
+    !!! warning
+        Make sure you enter a valid email address so you can access your account later.
+    ![Moqups sign-up page](images/signup-page.png)
 
-!!! note
-    You can also sign up using your Google or Microsoft account.
+    !!! note
+        You can also sign up using your Google or Microsoft account.
 
+3. Access the workspace
 
-### Step 3: Access the workspace
+    After creating your account, you will be redirected to the Moqups workspace.
 
-After creating your account, you will be redirected to the Moqups workspace.
+    ![Moqups workspace](images/workspace.png)
 
-![Moqups workspace](images/workspace.png)
-
-!!! success
-    Congratulations! You have successfully created a Moqups account and accessed the workspace.
+    !!! success
+        Congratulations! You have successfully created a Moqups account and accessed the workspace.
 
 
 ## Upgrade to a Student Plan (Optional)
 
 BCIT students can request a free upgrade to the Moqups Starter plan for educational use.
 
-### Step 1: Open the support page
+1. Open the support page
 
-On the Moqups homepage, **scroll down** to the bottom of the page.
+    On the Moqups homepage, **scroll down** to the bottom of the page.
 
-Under the [Support] section, **click** [Contact Support].
+    Under the [Support] section, **click** [Contact Support].
 
-![Contact support link](images/contact-support.png)
-
-
-### Step 2: Submit a request
-
-On the contact form page, **enter** your information:
-
-- Email address (use your myBCIT email)
-- Request type (e.g., Education & Nonprofits)
-- Message (request an educational account upgrade)
-
-Then **click** [Submit request].
-
-![Support request form](images/support-form.png)
+    ![Contact support link](images/contact-support.png)
 
 
-### Step 3: Wait for confirmation
+2. Submit a request
 
-After submitting your request, the Moqups support team will review it.
+    On the contact form page, **enter** your information:
 
-!!! note
-    The upgrade is typically processed within 1–2 business days.
+    - Email address (use your myBCIT email)
+    - Request type (e.g., Education & Nonprofits)
+    - Message (request an educational account upgrade)
 
-!!! success
-    Once approved, your account will be upgraded to the Starter plan for educational use.
+    Then **click** [Submit request].
+
+    ![Support request form](images/support-form.png)
+
+
+3. Wait for confirmation
+
+    After submitting your request, the Moqups support team will review it.
+
+    !!! note
+        The upgrade is typically processed within 1–2 business days.
+
+    !!! success
+        Once approved, your account will be upgraded to the Starter plan for educational use.

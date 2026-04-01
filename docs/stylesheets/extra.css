@@ -9,13 +9,13 @@ h1 {
 }
 
 h2 {
-  color: #2e7d32;
+  color: #0c50a9;
   font-weight: 600;
   padding-bottom: 0.3rem;
 }
 
 .md-content a {
-  color: #2e7d32;
+  color: #0c50a9;
   text-decoration: none;
 }
 
@@ -24,10 +24,10 @@ h2 {
 }
 
 [data-md-color-scheme="slate"] h2 {
-  color: #a5d6a7;
+  color: #cfe3fc;
 }
 [data-md-color-scheme="slate"] .md-content a {
-  color: #a5d6a7;
+  color: #cfe3fc;
 }
 
 .md-content ul {
@@ -46,4 +46,15 @@ table {
 
 th {
   font-weight: 600;
+}
+
+img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+:root {
+  --md-primary-fg-color: #1172f2;
+  --md-primary-fg-color--light: #4a90ff;
+  --md-primary-fg-color--dark: #0b5ed7;
 }
