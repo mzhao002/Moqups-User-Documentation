@@ -26,6 +26,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
   - General Operations: general-operations.md

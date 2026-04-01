@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! This guide will help you use Moqups to create UML Class Diagrams for system design.
+Welcome! This guide will help you use [Moqups](https://moqups.com/) to create UML Class Diagrams for system design.
 
 Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct UML Class Diagrams. Instead of explaining UML theory, this guide emphasizes how to use Moqups features to represent classes and relationships visually.
 
@@ -24,9 +24,9 @@ By the end of this guide, you will be able to
 To follow this guide, you will need
 
 * a computer with internet access, 
-* a modern web browser (e.g., Google Chrome, Safari, or Firefox),
+* a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/)),
 * a valid email account to create a Moqups account, and
-* basic understanding of UML Class Diagram concepts, and
+* basic understanding of [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts, and
 * basic knowledge of using a mouse, keyboard, and trackpad.
 
 
@@ -44,10 +44,10 @@ This guide uses the following typographic conventions:
 This guide uses success, warning, and note messages to provide additional information for each step.
 
 !!! success
-    Success indicates that a step has been completed correctly. It appears in a green box with a checkmark icon next to the word “Success”.
+    Success means the step was done correctly. It shows a green box with a checkmark.
 
 !!! warning
-    Warning highlights actions that may cause errors or issues if performed incorrectly. It appears in an orange box with a warning icon next to the word “Warning”.
+    Warning means something may go wrong if it is done incorrectly. It shows an orange box with a warning icon.
 
 !!! note
-    Note provides additional tips or helpful information related to a step. It appears in a blue box with a pen icon next to the word “Note”.
+    Note gives extra tips or helpful information. It shows a blue box with a pen icon.
