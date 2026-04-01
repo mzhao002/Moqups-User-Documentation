@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Welcome! This guide will help you use Moqups to create Entity Relationship Diagrams (ERDs) for system and database design.
+Welcome! This guide will help you use Moqups to create UML Class Diagrams for system design.
 
-Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct ERDs. Instead of explaining ERD theory, this guide emphasizes how to use Moqups features to represent entities and relationships visually.
+Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct UML Class Diagrams. Instead of explaining UML theory, this guide emphasizes how to use Moqups features to represent classes and relationships visually.
 
 ## Is This Guide for You?
 
-This guide is designed for CST students enrolled in database-related courses. It provides step-by-step instructions on using the most basic tools to build an Entity Relationship Diagram (ERD).
+This guide is designed for CST students enrolled in COMP 2522 (Object-Oriented Programming 1). It provides step-by-step instructions on using the most basic tools to build a UML Class Diagram.
 
 ## Learning Outcomes
 
@@ -16,8 +16,8 @@ By the end of this guide, you will be able to
 
 * create a Moqups account, 
 * perform general operations within the Moqups workspace,   
-* create entities using shapes, and   
-* connect entities using lines to represent relationships. 
+* create UML classes using shapes, and  
+* connect classes using lines to represent relationships.
 
 ## Prerequisites
 
@@ -26,7 +26,9 @@ To follow this guide, you will need
 * a computer with internet access, 
 * a modern web browser (e.g., Google Chrome, Safari, or Firefox),
 * a valid email account to create a Moqups account, and
+* basic understanding of UML Class Diagram concepts, and
 * basic knowledge of using a mouse, keyboard, and trackpad.
+
 
 ## Typographical Conventions
 
