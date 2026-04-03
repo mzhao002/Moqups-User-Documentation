@@ -1,4 +1,4 @@
-# Working with UML Class Shapes
+# Work with UML Class Shapes
 
 ## Overview
 
