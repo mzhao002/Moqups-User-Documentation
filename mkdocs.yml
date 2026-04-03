@@ -37,7 +37,7 @@ nav:
   - Home: index.md
   - Creat an Account: create-an-account.md
   - General Operations: general-operations.md
-  - Working with UML Class Shapes: working-with-UML-class-shapes.md
+  - Work with UML Class Shapes: work-with-UML-class-shapes.md
   - Connect Classes Using Lines: connect-classes-using-lines.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
