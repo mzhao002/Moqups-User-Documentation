@@ -8,7 +8,7 @@ Moqups is a web-based diagramming tool that allows users to create and organize 
 
 ## Is This Guide for You?
 
-This guide is designed for CST students enrolled in COMP 2522 (Object-Oriented Programming 1). It provides step-by-step instructions on using the most basic tools to build a UML Class Diagram.
+This guide is designed for CST students learning object-oriented programming. It provides step-by-step instructions on using tools to build a UML Class Diagram.
 
 ## Learning Outcomes
 
@@ -26,9 +26,8 @@ To follow this guide, you will need
 * a computer with internet access, 
 * a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/)),
 * a valid email account to create a Moqups account, and
-* basic understanding of [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts, and
-* basic knowledge of using a mouse, keyboard, and trackpad.
-
+* familiarity with [UML Class Diagram] (https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships, and
+* the ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools.
 
 ## Typographical Conventions
 
