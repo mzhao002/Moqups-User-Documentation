@@ -4,7 +4,7 @@
 
 In this section, you will learn how to work with UML class shapes in Moqups.
 
-The section is divided into four main tasks: creating class shapes, editing their appearance, organizing shape layouts, and deleting shapes when they are no longer needed.
+The section is divided into four main tasks: creating class shapes, editing their appearance, organizing shape layouts, and deleting shapes.
 
 By the end of this section, you will be able to create, organize, and customize UML class shapes effectively.
 
