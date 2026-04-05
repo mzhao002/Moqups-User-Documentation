@@ -106,7 +106,7 @@ To add a text label to a line:
 2. **Type** your label text.
 3. **Click** outside the line to confirm the label.
 
-    ![Add text label to line](videos/addtext.gif)
+    ![Add text label to line](videos/textlabel.gif)
 
 !!! success
     You have successfully added a text label to your line.
