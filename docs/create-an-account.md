@@ -24,7 +24,7 @@ You need to create an account before using Moqups. The following steps will guid
 
     !!! note
         Free accounts have limitations. BCIT students can use their myBCIT email to request an educational account upgrade.  
-        See [Upgrade to a Student Plan](#upgrade-to-a-student-plan-optional) for more details.
+        See [Upgrade to a Student Plan(Optional)](#upgrade-to-a-student-plan-optional) for more details.
 
     !!! warning
         Make sure you enter a valid email address so you can access your account later.
@@ -80,3 +80,7 @@ BCIT students can request a free upgrade to the Moqups Starter plan for educatio
 
     !!! success
         Once approved, your account will be upgraded to the Starter plan for educational use.
+
+## Conclusions
+
+By the end of this section, you have learned how to create a Moqups account and access the workspace. You are now ready to start creating and managing UML Class Diagrams.

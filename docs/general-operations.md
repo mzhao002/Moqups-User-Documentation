@@ -79,3 +79,46 @@ You can invite specific users by email.
 
         ![Manage collaborator permissions](images/manage-permissions.png)
 
+## Export a Document
+
+After completing your UML Class Diagram, you can export it for submission, printing, or sharing.
+
+There are multiple ways to open the export menu:
+
+1. Click [Export] in the top menu.  
+2. Click the Moqups logo in the top-left corner and select [Export] from the main menu.  
+3. Use the shortcut (Ctrl + Alt + X).
+
+    ![Open export options](images/export-button.png)
+
+Once the export panel is open, you can choose from different formats:
+
+- **PNG**: Export your UML Class Diagram as an image. This is suitable for quick sharing.
+
+    ![Export formats](images/export-format1.png)
+
+- **PDF**: Export your diagram as a document file. This is recommended for assignment submission.
+
+    ![Export formats](images/export-format2.png)
+
+- **HTML Viewer**: Export an interactive version of your diagram for viewing in a browser.
+
+    ![Export formats](images/export-format3.png)
+
+After selecting a format:
+
+1. Choose whether to export all pages or only selected pages.
+2. Adjust optional settings if needed (e.g., scale or layout).
+3. Click [Download] to save the file.
+
+    ![Export options](images/export-settings.png)
+
+You can also export your UML Class Diagram to cloud storage services such as Google Drive or Dropbox by selecting [Export to...].
+    ![Export options](images/export-settings2.png)
+
+!!! note
+    Saving to cloud storage is useful for accessing your UML Class Diagram from different devices or sharing it easily.
+    
+## Conclusions
+
+By the end of this section, you have learned how to create, share, and export UML Class Diagrams in Moqups. These basic operations will help you manage your work and prepare your diagrams for collaboration and submission.
