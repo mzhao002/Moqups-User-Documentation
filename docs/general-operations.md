@@ -4,7 +4,7 @@
 
 This section explains the basic operations needed to start and manage a UML Class Diagram in Moqups. You will learn how to create a diagram, share it with others, and export it for submission or review.
 
-### Create a Document
+## Create a Document
 
 Before building a UML Class Diagram, you need to create a new project in Moqups.
 
@@ -27,20 +27,19 @@ Before building a UML Class Diagram, you need to create a new project in Moqups.
         You can also create a new project by clicking the Moqups logo in the top-left corner and selecting [New Project] from the dropdown menu.
         ![Moqups new project](images/newproject.png)
 
-### Share a Document
+## Share a Document
 
 You can share your UML Class Diagram with classmates or instructors for collaboration or feedback.
 
 To open the sharing panel:
 
-1. Click [Sharing] in the top menu  
-    or use the shortcut (Ctrl + Alt + E)
+1. Click [Sharing] in the top menu or use the shortcut (Ctrl + Alt + E)
 
     ![Open sharing panel](images/share-button.png)
 
 2. There are two common ways to share your document.
 
-#### Option 1: Sharing via a link
+### Option 1: Sharing via a link
 
 You can generate a shareable link and send it to others.
 
@@ -48,12 +47,15 @@ You can generate a shareable link and send it to others.
 2. Click [Copy link].
 3. Send the link to others.
 
-    !!! note
-        You can adjust access settings to control who can view the project.
-
     ![Share via link](images/share-link.png)
 
-#### Option 2: Sharing via email
+    !!! note
+        "Anyone with the link can view" allows anyone with the link to access the UML Class Diagram.  
+        "Allow access to project collaborators only" restricts access to invited users only (added through email).
+
+        ![Share via link](images/share-link2.png)
+
+### Option 2: Sharing via email
 
 You can invite specific users by email.
 
@@ -70,4 +72,10 @@ You can invite specific users by email.
     ![Collaborator added successfully](images/share-email2.png)
 
     !!! success
-    The document has been successfully shared with the selected user.
+        The document has been successfully shared with the selected user.
+
+    !!! note
+        After adding a collaborator, you can change their permission level (e.g., Can Edit or Can Comment) or remove them from the project.
+
+        ![Manage collaborator permissions](images/manage-permissions.png)
+
