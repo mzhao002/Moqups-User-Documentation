@@ -113,8 +113,11 @@ After selecting a format:
 
     ![Export options](images/export-settings.png)
 
+    !!! success
+        Your UML Class Diagram has been successfully downloaded to your device.
+
 You can also export your UML Class Diagram to cloud storage services such as Google Drive or Dropbox by selecting [Export to...].
-    ![Export options](images/export-settings2.png)
+        ![Export options](images/export-settings2.png)
 
 !!! note
     Saving to cloud storage is useful for accessing your UML Class Diagram from different devices or sharing it easily.
