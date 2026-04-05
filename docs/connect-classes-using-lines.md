@@ -63,22 +63,15 @@ To change the thickness and line style of a line:
 !!! success
     You have successfully styled your line.
 
-<!-- ## Change Line Paths
+## Change Line Paths
 
 To change the path style of a line:
 
 1. **Click** on the line to select it.
-2. Under [Fills & Strokes], **click** the right dropdown in the [pen settings] section.
-3. **Choose** a path style from the dropdown.
+2. **Click** on one of the hollow endpoints that appear at either end of the line.
+3. **Drag** the hollow endpoint to your desired position.
 
-    ![Change line path style](videos/line-path.gif)
-
-!!! note
-    Different path styles affect how the line is routed between shapes:
-
-    - **Straight** — Draws a direct line between two connection points. Best for simple, uncluttered diagrams.
-    - **Curved** — Draws a smooth arc between shapes. Useful when you want to visually separate overlapping lines.
-    - **Orthogonal** — Draws lines with right-angle bends. Best for formal UML diagrams where clean, structured routing is preferred.
+    ![Change line path style](videos/changepath.gif)
 
 !!! success
     You have successfully changed the path style of your line.
@@ -88,11 +81,10 @@ To change the path style of a line:
 To change the connector type of a line:
 
 1. **Click** on the line to select it.
-2. You will see an [option menu] pop up.
-3. **Click** the [Connector Type] icon from the [option menu].
-4. **Choose** a connector type from the list.
+2. Under [Connector Style], **click** the third-row middle dropdown to adjust the top/left connector end.
+3. **Click** the third-row right dropdown to adjust the down/right connector end.
 
-    ![Modify connector type](videos/connector-type.gif)
+    ![Modify connector type](videos/connector.gif)
 
 !!! note
     Different connector types represent different UML class relationships:
@@ -110,11 +102,11 @@ To change the connector type of a line:
 
 To add a text label to a line:
 
-1. **Double-click** on the line to open the text editor.
+1. **Double-click** on the line to select it.
 2. **Type** your label text.
 3. **Click** outside the line to confirm the label.
 
-    ![Add text label to line](videos/line-label.gif)
+    ![Add text label to line](videos/addtext.gif)
 
 !!! success
     You have successfully added a text label to your line.
@@ -128,11 +120,11 @@ To delete a line from your canvas:
 3. **Click** [Delete] from the [option menu].
 4. Or press the **Delete** key on your keyboard.
 
-    ![Delete a line](videos/delete-line.gif)
+    ![Delete a line](videos/deletelines.gif)
 
 !!! success
     You have successfully deleted a line from your canvas.
 
 ## Conclusions
 
-By the end of this section, you have learned how to connect UML class shapes using lines in Moqups, including how to add, style, modify, label, and delete lines. These skills will help you represent class relationships clearly in your UML diagrams. -->
+By the end of this section, you have learned how to connect UML class shapes using lines in Moqups, including how to add, style, modify, label, and delete lines. These skills will help you represent class relationships clearly in your UML diagrams.
