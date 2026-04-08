@@ -26,7 +26,7 @@ To follow this guide, you will need
 * a computer with internet access, 
 * a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/)),
 * a valid email account to create a Moqups account, and
-* familiarity with [UML Class Diagram] (https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships, and
+* familiarity with [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships, and
 * the ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools.
 
 ## Typographical Conventions
