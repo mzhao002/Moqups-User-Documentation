@@ -12,31 +12,31 @@ This guide is designed for CST students learning object-oriented programming. It
 
 ## Learning Outcomes
 
-By the end of this guide, you will be able to
+By the end of this guide, you will be able to:
 
-* create a Moqups account, 
-* perform general operations within the Moqups workspace,   
-* create UML classes using shapes, and  
-* connect classes using lines to represent relationships.
+* create a Moqups account  
+* perform general operations within the Moqups workspace  
+* work with UML class shapes  
+* connect classes using lines to represent relationships  
 
 ## Prerequisites
 
-To follow this guide, you will need
+To follow this guide, you will need: 
 
-* a computer with internet access, 
-* a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/)),
-* a valid email account to create a Moqups account, and
-* familiarity with [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships, and
-* the ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools.
+* a computer with internet access
+* a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/))
+* a valid email account to create a Moqups account
+* familiarity with [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships
+* the ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools
 
 ## Typographical Conventions
 
 This guide uses the following typographic conventions:
 
-| Convention Explanation                                                                                                            | Examples                                             |
-| :-------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
-| Commands & Actions: Bolded verbs indicate actions you need to perform when using Moqups.                                          | **Click, Drag, Select, Type, Open**                  |
-| Menu & Toolbar Sequence: Menus, panels, or tools are enclosed in square brackets. The → symbol indicates the sequence of actions. | [Dashboard] → [Create New Project] → [Blank Diagram] |
+| Convention Explanation                                                                                                            | Examples                                                                 |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| Commands & Actions: Bolded verbs indicate actions you need to perform in Moqups.                                                | **Click, Drag, Select**                                                  |
+| Menu & Toolbar Items: Menus, toolbars, or options are enclosed in square brackets.                                               | [Stencils], [Search Stencils], [Group icon]                              |
 
 ## Admonitions
 
