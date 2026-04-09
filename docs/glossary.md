@@ -10,7 +10,7 @@
 | Method | A function that defines the behavior of a class. |
 | Relationship | A connection between classes, such as association or inheritance. |
 | Connector | A line used to link classes and represent relationships. |
-| Workspace | The area where you create and edit diagrams in Moqups. |
+| Workspace | The area used to create and edit diagrams in Moqups. |
 | Collaborator | A user who has access to a project. |
 | Permission | The level of access given to a collaborator (e.g., edit or comment). |
 | Export | The process of saving a diagram as a file (e.g., PNG or PDF). |
