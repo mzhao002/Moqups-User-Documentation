@@ -1,4 +1,6 @@
 site_name: Moqups User Documentation
+repo_url: https://github.com/mzhao002/Moqups-User-Documentation
+repo_name: GitHub
 
 theme:
   name: material
@@ -7,6 +9,7 @@ theme:
     - navigation.expand
     - navigation.footer
     - toc.integrate
+    - navigation.top
     
 
   palette:
@@ -35,7 +38,7 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Creat an Account: create-an-account.md
+  - Create an Account: create-an-account.md
   - General Operations: general-operations.md
   - Work with UML Class Shapes: work-with-UML-class-shapes.md
   - Connect Classes Using Lines: connect-classes-using-lines.md
