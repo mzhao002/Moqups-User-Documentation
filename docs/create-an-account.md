@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section explains how to create a Moqups account so you can access the workspace and start building UML Class Diagrams.
+Moqups is an online diagramming tool that allows users to create and collaborate on UML Class Diagrams. In this section, you will learn how to create an account to access the workspace and start building diagrams.
 
 ## Instructions
 
@@ -25,13 +25,13 @@ You need to create an account before using Moqups. The following steps will guid
     !!! note
         Free accounts have limitations. BCIT students can use their myBCIT email to request an educational account upgrade.  
         See [Upgrade to a Student Plan(Optional)](#upgrade-to-a-student-plan-optional) for more details.
+        You can also sign up using your Google or Microsoft account.
 
     !!! warning
         Make sure you enter a valid email address so you can access your account later.
+
     ![Moqups sign-up page](images/signup-page.png)
 
-    !!! note
-        You can also sign up using your Google or Microsoft account.
 
 3. Access the workspace
 
