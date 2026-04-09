@@ -17,7 +17,7 @@ To creat a shape to your canvas:
 
 1. From the left-side panel, **Click** on [Stencils]. 
 
-    ![Select Stencils](images/select-stencils.png)
+    ![Select Stencils](images/select-stencils.png "Select Stencils")
 
 2. In the [Search Stencils] input box, **type** “UML”. You will then see the UML Class shape appear in the results.
 
@@ -25,7 +25,7 @@ To creat a shape to your canvas:
     
 3. **Drag** and **drop** the UML class shape onto the canvas.
 
-    ![Drag UML class shape](videos/drag.gif)
+    ![Drag UML class shape](videos/drag.gif "Drag UML class shape")
 
 !!! success
     You have successfully added your first UML class shape to the canvas.
@@ -43,7 +43,7 @@ To change fill color to your UML shapes:
 2. Under [Fills & Strokes], **click** [paint bucket icon].
 3. **Choose** a color to change the background of the shape.
 
-    ![Change fill color](videos/color.gif)    
+    ![Change fill color](videos/color.gif "Change fill color")    
 
 ### Change Border Style
 
@@ -53,13 +53,13 @@ To change border style to your UML shapes:
 2. Under [Fills & Strokes], **click** [pen icon].
 3. **Choose** a color to change the border color of the shape.
 
-    ![Change border color](videos/bordercolor.gif)    
+    ![Change border color](videos/bordercolor.gif "Change border color")    
 
 4. In the same [pen settings] section:
     * **Click** the left dropdown icon to adjust the border thickness.
     * **Click** the right dropdown icon to change the line style (e.g., solid, dashed, dotted).
 
-    ![Change border thickness and line style](videos/borderthickness.gif) 
+    ![Change border thickness and line style](videos/borderthickness.gif "Change border thickness and line style") 
 
 !!! success
     You have successfully customized your UML class shape.
@@ -76,7 +76,7 @@ To align multiple UML class shapes:
 2. You will see a [option menu] pops up.
 3. **Choose** an alignment type from the [option menu].
 
-    ![Align multiple shapes](videos/align.gif)
+    ![Align multiple shapes](videos/align.gif "Align multiple shapes")
 
 ### Group Multiple Shapes
 
@@ -86,7 +86,7 @@ To group multiple UML class shapes:
 2. You will see a [option menu] pops up.
 3. **Choose** the [Group icon] from the [option menu].
 
-    ![Group multiple shapes](videos/group.gif)
+    ![Group multiple shapes](videos/group.gif "Group multiple shapes")
 
 !!! success
     You have successfully organized your UML class shapes using alignment and grouping tools.
@@ -100,7 +100,7 @@ To delete a shape from your canvas:
 3. **Click** [Delete] from the [option menu].
 4. Or press the **Delete** key on your keyboard.
 
-    ![Delete shapes](videos/delete.gif)
+    ![Delete shapes](videos/delete.gif "Delete shapes")
 
 !!! success
     You have successfully delete your UML class shapes.

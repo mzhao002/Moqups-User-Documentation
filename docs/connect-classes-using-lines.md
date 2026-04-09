@@ -17,14 +17,14 @@ To add a line between two UML class shapes:
 
 1. **Click** the leftmost [line icon] in the [option menu].
 
-    ![Line option menu](images/linemenu.png)
+    ![Line option menu](images/linemenu.png "Line option menu")
 
 2. **Select** [Diagram] from the dropdown menu.
 3. **Hover** over the source class until the [blue connection points] appear on its edge.
 4. **Click** and **drag** from a [blue connection point] to the edge of the target class.
 5. **Release** the mouse when the [blue connection point] on the target class appears.
 
-    ![Add a line between shapes](videos/addlines.gif)
+    ![Add a line between shapes](videos/addlines.gif "Add a line between shapes")
 
 !!! success
     You have successfully connected two UML class shapes with a line.
@@ -41,17 +41,17 @@ To change the color of a line:
 2. Under [Connector Style], **click** the [color bar].
 3. **Choose** a color to change the line color.
 
-    ![Change line color](videos/linecolor.gif)
+    ![Change line color](videos/linecolor.gif "Change line color")
 
 ### Change Line Thickness and Style
 
 To change the thickness and line style of a line:
 
 1. **Click** on the line to select it.
-2. Under [Connector Style], **click** the left dropdown to adjust the thickness.
-3. **Click** the right dropdown to change the line style (e.g., solid, dashed, dotted).
+2. Under [Connector Style], **click** the [left dropdown icon] to adjust the thickness.
+3. **Click** the [right dropdown icon] to change the line style (e.g., solid, dashed, dotted).
 
-    ![Change line thickness and style](videos/linestyle.gif)
+    ![Change line thickness and style](videos/linestyle.gif "Change line thinckness and style")
 
 !!! note
     Different line styles represent different types of relationships in UML class diagrams:
@@ -71,7 +71,7 @@ To change the path style of a line:
 2. **Click** on one of the hollow endpoints that appear at either end of the line.
 3. **Drag** the hollow endpoint to your desired position.
 
-    ![Change line path style](videos/changepath.gif)
+    ![Change line path style](videos/changepath.gif "Change line path style")
 
 !!! success
     You have successfully changed the path style of your line.
@@ -84,7 +84,7 @@ To change the connector type of a line:
 2. Under [Connector Style], **click** the third-row middle dropdown to adjust the top/left connector end.
 3. **Click** the third-row right dropdown to adjust the down/right connector end.
 
-    ![Modify connector type](videos/connector.gif)
+    ![Modify connector type](videos/connector.gif "Modify connector type")
 
 !!! note
     Different connector types represent different UML class relationships:
@@ -106,7 +106,7 @@ To add a text label to a line:
 2. **Type** your label text.
 3. **Click** outside the line to confirm the label.
 
-    ![Add text label to line](videos/textlabel.gif)
+    ![Add text label to line](videos/textlabel.gif "Add text label to line")
 
 !!! success
     You have successfully added a text label to your line.
@@ -120,7 +120,7 @@ To delete a line from your canvas:
 3. **Click** [Delete] from the [option menu].
 4. Or press the **Delete** key on your keyboard.
 
-    ![Delete a line](videos/deletelines.gif)
+    ![Delete a line](videos/deletelines.gif "Delete a line")
 
 !!! success
     You have successfully deleted a line from your canvas.
