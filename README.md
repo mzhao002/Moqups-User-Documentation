@@ -54,15 +54,28 @@ Open `http://localhost:8000` in your browser to preview the guide locally.
 
 ## How We Built This
 
-The content is based on firsthand experience using Moqups during BCIT coursework, supplemented by the official [Moqups documentation](https://moqups.com/). We structured the tasks around the steps that were most confusing when we first learned the tool.
-
-### Contributors
-
+### Software Selection
+ 
+We first used Moqups in our OOP class at BCIT. We liked it because it was easy to use and looked modern. This guide is based on our own experience with the tool, plus the official **Moqups documentation**. We focused on the parts that were confusing when we first started.
+ 
+### Task Distribution
+ 
 | Member | Pages |
-| :----- | :---- |
+|---|---|
 | Meiqi Zhao | Home, Work with UML Class Shapes, Connect Classes Using Lines, Troubleshooting |
 | Ge Zheng | Create an Account, General Operations, Glossary |
-
----
  
+### Tools & Tech
+ 
+- **Moqups** — the tool this guide is about
+- **Material for MkDocs** — used to build the documentation site
+- **Markdown** — used to write all the pages
+- **GitHub Pages** — used to host the site
+ 
+### Challenges
+ 
+The hardest part was learning Moqups and writing about it at the same time. Some things, like connecting UML classes with the right lines, took a few tries to figure out. We also had to think carefully about how to explain each step clearly for beginners.
+ 
+---
+
 Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
