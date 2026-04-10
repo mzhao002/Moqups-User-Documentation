@@ -40,6 +40,7 @@ This guide uses the following typographic conventions:
 | :-------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
 | Commands & Actions: Bolded verbs indicate actions you need to perform in Moqups.                                                | **Click, Drag, Select**                                                  |
 | Menu & Toolbar Items: Menus, toolbars, or options are enclosed in square brackets.                                               | [Stencils], [Search Stencils], [Group icon]                              |
+| Code & Class Names: Backticks indicate class names, attributes, or technical terms.                                              | `Library`, `Books`, `AuthService`                                        |
 
 ## Admonitions
 
