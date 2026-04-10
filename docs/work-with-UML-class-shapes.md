@@ -56,6 +56,7 @@ To change border style to your UML shapes:
     ![Change border color](videos/bordercolor.gif "Change border color")    
 
 There is also another way to change border style. In the same [pen settings] section:
+
 1. **Click** the [left dropdown icon] to adjust the border thickness.
 2. **Click** the [right dropdown icon] to change the line style (e.g., solid, dashed, dotted).
 
