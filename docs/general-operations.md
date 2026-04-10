@@ -12,7 +12,7 @@ Before building a UML Class Diagram, you need to create a new project in Moqups.
 
     ![Create new project](images/create-project.png)
 
-2. In the "Create New Project" window, enter a project name (e.g., "UML Class Diagram").
+2. Enter a project name (e.g., "UML Class Diagram") in the "Create New Project" window.
 
     ![Enter project name](images/project-name.png)
 
@@ -43,7 +43,7 @@ To open the sharing panel:
 
 You can generate a shareable link and send it to others.
 
-1. In the "Share with Others" window, locate the project link section.
+1. Locate the project link section in the "Share with Others" window.
 2. Click [Copy link].
 3. Send the link to others.
 
@@ -67,7 +67,8 @@ You can invite specific users by email.
         "Can Edit" allows users to modify the UML Class Diagram, while "Can Comment" only allows feedback.
 
     ![Share via email](images/share-email.png)
-4. After sending the invitation, the added user will appear in the collaborators list with the assigned permission.
+    
+    After sending the invitation, the added user will appear in the collaborators list with the assigned permission.
     
     ![Collaborator added successfully](images/share-email2.png)
 
