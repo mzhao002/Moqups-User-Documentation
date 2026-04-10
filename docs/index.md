@@ -2,9 +2,12 @@
 
 ## Introduction
 
-Welcome! This guide will help you use [Moqups](https://moqups.com/) to create UML Class Diagrams for system design.
+Welcome! This guide will help you use [Moqups](https://moqups.com/) to create Unified Modeling Language (UML) Class Diagrams for system design.
 
 Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct UML Class Diagrams. Instead of explaining UML theory, this guide emphasizes how to use Moqups features to represent classes and relationships visually.
+
+!!! note
+    A UML Class Diagram is a visual representation that shows the structure of a system by depicting its classes, attributes, and relationships.
 
 ## Is This Guide for You?
 
@@ -14,20 +17,20 @@ This guide is designed for CST students learning object-oriented programming. It
 
 By the end of this guide, you will be able to:
 
-* create a Moqups account  
-* perform general operations within the Moqups workspace  
-* work with UML class shapes  
-* connect classes using lines to represent relationships  
+* Create a Moqups account  
+* Perform general operations within the Moqups workspace  
+* Work with UML class shapes  
+* Connect classes using lines to represent relationships  
 
 ## Prerequisites
 
 To follow this guide, you will need: 
 
-* a computer with internet access
-* a modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/))
-* a valid email account to create a Moqups account
-* familiarity with [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships
-* the ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools
+* A computer with internet access
+* A modern web browser (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Safari](https://apps.apple.com/ca/app/safari/id1146562112), or [Firefox](https://www.firefox.com/zh-CN/))
+* A valid email account to create a Moqups account
+* Familiarity with [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) concepts such as classes, attributes, methods, and relationships
+* The ability to use a mouse, keyboard, and trackpad to navigate and interact with web-based tools
 
 ## Typographical Conventions
 
