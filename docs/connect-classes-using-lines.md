@@ -38,7 +38,7 @@ In this section, you will learn how to customize the appearance of lines, includ
 To change the color of a line:
 
 1. **Click** on the line to select it.
-2. Under [Connector Style], **click** the [color bar].
+2. **Click** the [color bar] under [Connector Style], .
 3. **Choose** a color to change the line color.
 
     ![Change line color](videos/linecolor.gif "Change line color")
@@ -48,7 +48,7 @@ To change the color of a line:
 To change the thickness and line style of a line:
 
 1. **Click** on the line to select it.
-2. Under [Connector Style], **click** the [left dropdown icon] to adjust the thickness.
+2. **Click** the [left dropdown icon] to adjust the thickness in [Connector Style].
 3. **Click** the [right dropdown icon] to change the line style (e.g., solid, dashed, dotted).
 
     ![Change line thickness and style](videos/linestyle.gif "Change line thinckness and style")
@@ -81,7 +81,7 @@ To change the path style of a line:
 To change the connector type of a line:
 
 1. **Click** on the line to select it.
-2. Under [Connector Style], **click** the third-row middle dropdown to adjust the top/left connector end.
+2. **Click** the middle dropdown in the third row to set the top/left connector end in [Connector Style].
 3. **Click** the third-row right dropdown to adjust the down/right connector end.
 
     ![Modify connector type](videos/connector.gif "Modify connector type")
@@ -115,10 +115,8 @@ To add a text label to a line:
 
 To delete a line from your canvas:
 
-1. **Click** to select the line.
-2. You will see an [option menu] pop up.
-3. **Click** [Delete] from the [option menu].
-4. Or press the **Delete** key on your keyboard.
+1. **Click** to select the line and then you will see an [option menu] pop up.
+2. **Click** [Delete] from the [option menu] or **press** the **Delete** key on your keyboard.
 
     ![Delete a line](videos/deletelines.gif "Delete a line")
 
