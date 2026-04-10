@@ -15,11 +15,11 @@ By the end of this section, you will be able to create, organize, and customize 
 
 To creat a shape to your canvas:
 
-1. From the left-side panel, **Click** on [Stencils]. 
+1. **Click** on [Stencils] from the left-side panel, . 
 
     ![Select Stencils](images/select-stencils.png "Select Stencils")
 
-2. In the [Search Stencils] input box, **type** “UML”. You will then see the UML Class shape appear in the results.
+2. **Type** “UML” in the [Search Stencils] input box. You will then see the UML Class shape appear in the results.
 
     ![Type UML](videos/search.gif)
     
@@ -40,7 +40,7 @@ In this section, you will learn how to customize the appearance of UML class sha
 To change fill color to your UML shapes:
 
 1. **Click** on the UML class shape.
-2. Under [Fills & Strokes], **click** [paint bucket icon].
+2. **Click** [paint bucket icon] under [Fills & Strokes],.
 3. **Choose** a color to change the background of the shape.
 
     ![Change fill color](videos/color.gif "Change fill color")    
@@ -50,7 +50,7 @@ To change fill color to your UML shapes:
 To change border style to your UML shapes:
 
 1. **Click** on the UML class shape.
-2. Under [Fills & Strokes], **click** [pen icon].
+2. **Click** [pen icon] under [Fills & Strokes],.
 3. **Choose** a color to change the border color of the shape.
 
     ![Change border color](videos/bordercolor.gif "Change border color")    
@@ -72,9 +72,8 @@ In this section, you will learn how to organize UML class shapes by aligning and
 
 To align multiple UML class shapes:
 
-1. **Hold Shift** and **click** to select multiple UML class shapes.
-2. You will see a [option menu] pops up.
-3. **Choose** an alignment type from the [option menu].
+1. **Hold Shift** and **right click** to select multiple UML class shapes. You will see a [option menu] pops up.
+2. **Choose** an alignment type from the [option menu].
 
     ![Align multiple shapes](videos/align.gif "Align multiple shapes")
 
@@ -82,8 +81,7 @@ To align multiple UML class shapes:
 
 To group multiple UML class shapes:
 
-1. **Hold Shift** and **click** to select multiple UML class shapes.
-2. You will see a [option menu] pops up.
+1. **Hold Shift** and **right click** to select multiple UML class shapes. You will see a [option menu] pops up.
 3. **Choose** the [Group icon] from the [option menu].
 
     ![Group multiple shapes](videos/group.gif "Group multiple shapes")
@@ -95,10 +93,8 @@ To group multiple UML class shapes:
 
 To delete a shape from your canvas:
 
-1. **Hold Shift** and **click** to select UML class shape.
-2. You will see a [option menu] pops up.
-3. **Click** [Delete] from the [option menu].
-4. Or press the **Delete** key on your keyboard.
+1. **Hold Shift** and **click** to select UML class shape. You will see a [option menu] pops up.
+2. **Click** [Delete] from the [option menu] or **press** the **Delete** key on your keyboard.
 
     ![Delete shapes](videos/delete.gif "Delete shapes")
 
