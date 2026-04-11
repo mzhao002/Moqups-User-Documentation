@@ -4,7 +4,7 @@
 
 In this section, you will learn how to create, share, and export UML Class Diagrams in Moqups.
 
-The section is divided into three main tasks: creating a project, sharing a document, and exporting a diagram.
+The section is divided into three main tasks: creating a document, sharing a document, and exporting a document.
 
 By the end of this section, you will be able to manage your UML Class Diagrams effectively, collaborate with others, and prepare your work for submission or review.
 
