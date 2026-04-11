@@ -73,8 +73,8 @@ We first used Moqups in our OOP class at BCIT. We liked it because it was easy t
 - **GitHub Pages** — used to host the site
  
 ### Challenges
- 
-The hardest part was learning Moqups and writing about it at the same time. Some things, like connecting UML classes with the right lines, took a few tries to figure out. We also had to think carefully about how to explain each step clearly for beginners.
+
+The most challenging part was making sure each step was explained clearly using simple language, while also ensuring that nothing was left out. Another challenge was maintaining a consistent writing style so that the guide would be easy for readers to follow.
  
 ---
 
