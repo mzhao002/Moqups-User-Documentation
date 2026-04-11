@@ -55,8 +55,8 @@ Open `http://localhost:8000` in your browser to preview the guide locally.
 ## How We Built This
 
 ### Software Selection
- 
-We first used Moqups in our OOP class at BCIT. We liked it because it was easy to use and looked modern. This guide is based on our own experience with the tool, plus the official **Moqups documentation**. We focused on the parts that were confusing when we first started.
+
+We first used Moqups in our OOP class at BCIT. We liked it because it was easy to use and looked modern. This guide is based on our own experience with the tool, as well as the official Moqups documentation. We focused on the workflow we followed when we first started using it, presenting the steps in a clear, sequential order.
  
 ### Task Distribution
  
