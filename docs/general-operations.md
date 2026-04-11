@@ -50,8 +50,7 @@ You can generate a shareable link and send it to others.
     !!! note
         "Anyone with the link can view" allows anyone with the link to access the UML Class Diagram.  
         "Allow access to project collaborators only" restricts access to invited users only (added through email).
-
-        ![Share via link](images/share-link2.png)
+        ![Share via link](images/share-link2.png "Share via link")
 
 ### Option 2: Sharing via email
 
@@ -68,15 +67,14 @@ You can invite specific users by email.
 
     After sending the invitation, the added user will appear in the collaborators list with the assigned permission.
     
-    ![Collaborator added successfully](images/share-email2.png "Collabrorateor added successfully")
+    ![Collaborator added successfully](images/share-email2.png "Collaborator added successfully")
 
     !!! success
         The document has been successfully shared with the selected user.
 
     !!! note
         After adding a collaborator, you can change their permission level (e.g., Can Edit or Can Comment) or remove them from the project.
-
-        ![Manage collaborator permissions](images/manage-permissions.png)
+        ![Manage collaborator permissions](images/manage-permissions.png "Manage collaborator permissions")
 
 ## Export a Document
 
@@ -116,7 +114,7 @@ After selecting a format:
         Your UML Class Diagram has been successfully downloaded to your device.
 
 You can also export your UML Class Diagram to cloud storage services such as Google Drive or Dropbox by selecting [Export to...].
-        ![Export options](images/export-settings2.png "Export options")
+    ![Export options](images/export-settings2.png "Export options")
 
 !!! note
     Saving to cloud storage is useful for accessing your UML Class Diagram from different devices or sharing it easily.
