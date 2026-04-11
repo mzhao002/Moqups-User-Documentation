@@ -70,4 +70,6 @@ BCIT students can request a free upgrade to the Moqups Starter plan for educatio
 
 ## Conclusions
 
-By the end of this section, you have learned how to create a Moqups account and access the workspace. You are now ready to start creating and managing UML Class Diagrams.
+## Conclusions
+
+In this section, you learned how to create a Moqups account, access the workspace, and optionally upgrade to a student plan. These steps are essential for getting started with Moqups, as they allow you to fully use its features for creating and managing UML Class Diagrams. With your account set up, you are now ready to begin designing and collaborating on diagrams effectively.
