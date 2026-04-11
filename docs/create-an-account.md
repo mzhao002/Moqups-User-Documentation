@@ -30,7 +30,7 @@ You need to create an account before using Moqups. The following steps will guid
     ![Moqups sign-up page](images/signup-page.png "Moqups sign-up page")
 
 
-    After creating your account, you will be redirected to the Moqups workspace.
+    After creating your account, you will be automatically redirected to the Moqups workspace.
 
     ![Moqups workspace](images/workspace.png "Moqups workspace")
 
