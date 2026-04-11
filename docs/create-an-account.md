@@ -2,7 +2,11 @@
 
 ## Overview
 
-Moqups is an online diagramming tool that allows users to create and collaborate on UML Class Diagrams. In this section, you will learn how to create an account to access the workspace and start building diagrams.
+In this section, you will learn how to create a Moqups account and access the workspace.
+
+The section is divided into two main tasks: creating an account and upgrading to a student plan (optional).
+
+By the end of this section, you will be able to access the Moqups workspace and start building UML Class Diagrams.
 
 ## Instructions
 
@@ -67,8 +71,6 @@ BCIT students can request a free upgrade to the Moqups Starter plan for educatio
 
     !!! success
         Once approved, your account will be upgraded to the Starter plan for educational use.
-
-## Conclusions
 
 ## Conclusions
 
