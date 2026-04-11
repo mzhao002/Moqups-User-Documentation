@@ -123,4 +123,4 @@ You can also export your UML Class Diagram to cloud storage services such as Goo
     
 ## Conclusions
 
-By the end of this section, you have learned how to create, share, and export UML Class Diagrams in Moqups. These basic operations will help you manage your work and prepare your diagrams for collaboration and submission.
+In this section, you learned how to create a project, share your UML Class Diagram with others, and export it in different formats. These core operations allow you to effectively manage your work, collaborate with teammates, and prepare your diagrams for submission or presentation. With these essential skills, you are now ready to work more efficiently within Moqups.
