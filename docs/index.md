@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! This guide will help you use [Moqups](https://moqups.com/) to create Unified Modeling Language (UML) Class Diagrams for system design.
+Welcome! This guide will help you use [Moqups](https://moqups.com/) to create [Unified Modeling Language (UML) Class Diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) for system design.
 
 Moqups is a web-based diagramming tool that allows users to create and organize visual diagrams. While it supports various diagram types such as wireframes and flowcharts, this guide focuses specifically on using its tools to construct UML Class Diagrams. Instead of explaining UML theory, this guide emphasizes how to use Moqups features to represent classes and relationships visually.
 
