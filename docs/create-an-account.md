@@ -9,7 +9,7 @@ Moqups is an online diagramming tool that allows users to create and collaborate
 You need to create an account before using Moqups. The following steps will guide you through the registration process.
 
 1. **Open** the [Moqups](https://moqups.com/) homepage.
-2. **click** [Sign up] in the top-right corner or [Sign up for free] on the main page.
+2. **Click** [Sign up] in the top-right corner or [Sign up for free] on the main page.
 
     ![Sign up button](images/signup.png "Sign up button")
 
